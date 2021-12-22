@@ -1,0 +1,26 @@
+{
+  "f12c71152612d310250fb65e0570e98c8466F6EF70A2DECD649BFD90AF8BBD6AF0E0ADEB": {
+    "au": "psmgroup",
+    "expires": "20 Dec 2021"
+  },
+  "1a81ada3ec22d67c00624628b2e91a70C8A8FB33932D44E259EBE1D7F230C13B6A890040": {
+    "au": "psmgroup1",
+    "expires": "20 Dec 2021"
+  },
+  "a41cbe6103fbd1cf848a493d3428c8edC49D662494FA3BED03472FAD094FD8CC8C16BB82": {
+    "au": "psmgroup2",
+    "expires": "20 Dec 2021"
+  },
+  "657dc6ae7bc31ce4f9d9e34370b6edb904C65809620B060A5DB533F789FCD053D661D03B": {
+    "au": "psmgroup3",
+    "expires": "20 Dec 2021"
+  },
+  "48bf264a74dffa7690ec8909fbef1ae2B7002D970B654A57FC0C076915D5FCAEAF42CA41": {
+    "au": "psmgroup4",
+    "expires": "20 Dec 2021"
+  },
+  "a27c74d572ea8f3b954fb8483debedebDFD4C6A3E5EE6850408FA6934561C56B6EFB7CF9": {
+    "au": "psmgroup5",
+    "expires": "20 Dec 2021"
+  }
+}

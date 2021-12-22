@@ -1,0 +1,610 @@
+{
+  "200028486": {
+      "parentAccountName": "psmgroup5_mng",
+      "parentAccountId": 200028483,
+      "parentEnabled": 1,
+      "plan": "tpnew",
+      "enabled": 1,
+      "switchTime": 0,
+      "flags": 0,
+      "created": 1578996788,
+      "balance": "0.00",
+      "daysCounter": 0,
+      "services": {
+          "avl_unit": {
+              "type": 2,
+              "usage": 34,
+              "maxUsage": 35
+          },
+          "cms_manager": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "psmgroup5_0": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "service.psmgroup5": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "avl_retranslator": {
+              "type": 2,
+              "usage": 1,
+              "maxUsage": -1
+          },
+          "custom_reports": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "trailer_groups": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "trailers": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "wialon_activex": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070277_560106": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070286_560110": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070305_560115": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070319_560118": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070347_560126": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070354_560130": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070368_560133": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070390_560138": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070394_560141": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070417_560147": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070421_560149": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070425_560151": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070446_560157": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070645_560207": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070687_560218": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070862_560273": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070871_560275": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070876_560279": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070914_560290": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "app.1579070920_560293": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "avl_route": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "seasonal_units": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "avl_resource": {
+              "type": 2,
+              "usage": 3,
+              "maxUsage": -1
+          },
+          "avl_unit_group": {
+              "type": 2,
+              "usage": 4,
+              "maxUsage": -1
+          },
+          "create_unit_groups": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "jobs": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "email_report": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 20
+          },
+          "create_units": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "create_users": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "notifications": {
+              "type": 2,
+              "usage": 4,
+              "maxUsage": -1
+          },
+          "storage_user": {
+              "type": 2,
+              "usage": 5,
+              "maxUsage": -1
+          },
+          "reportsdata": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "custom_fields": {
+              "type": 2,
+              "usage": 25,
+              "maxUsage": -1
+          },
+          "wialon.hosting": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "unit_sensors": {
+              "type": 2,
+              "usage": 20,
+              "maxUsage": -1
+          },
+          "email_notification": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 20
+          },
+          "pois": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "reports": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "zones_library": {
+              "type": 2,
+              "usage": 1232,
+              "maxUsage": -1
+          },
+          "drivers": {
+              "type": 2,
+              "usage": 29,
+              "maxUsage": -1
+          },
+          "reporttemplates": {
+              "type": 2,
+              "usage": 16,
+              "maxUsage": -1
+          },
+          "reportsmngt": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "messages": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "unit_commands": {
+              "type": 2,
+              "usage": 39,
+              "maxUsage": -1
+          },
+          "service_intervals": {
+              "type": 2,
+              "usage": 2,
+              "maxUsage": -1
+          },
+          "hosting": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting2": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "retranslator_units": {
+              "type": 2,
+              "usage": 24,
+              "maxUsage": -1
+          },
+          "route_schedules": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "rounds": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "create_resources": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "sms": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "driver_groups": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "user_notifications": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "wialon_hosting_api": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "admin_fields": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting3": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting4": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting5": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting6": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "cms_manager2": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "sdk": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "wialon_hosting_apps_api": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting7": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "lite": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting8": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "tacho": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "ecodriving": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "mobile_apps": {
+              "type": 2,
+              "usage": 4,
+              "maxUsage": -1
+          },
+          "hosting_arctic": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting_black": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting_plum": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting_urban": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "orders": {
+              "type": 2,
+              "usage": 1,
+              "maxUsage": -1
+          },
+          "wialon_mobile_client": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting_indigo": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "zone_groups": {
+              "type": 2,
+              "usage": 5,
+              "maxUsage": -1
+          },
+          "hosting_summer": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "profile_fields": {
+              "type": 2,
+              "usage": 349,
+              "maxUsage": -1
+          },
+          "wialon_hosting_dev_api": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "tags": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "quick_guide": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "wialon_hosting_test_api": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "google_service": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "locator": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "import_export": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "wialon_hosting_api_ru": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "hosting_wialon_ru": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "cms_manager_ru": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "wialon_hosting_dev_api_ru": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "cms_manager2_ru": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "tag_groups": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "lite_ru": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "avl_vin": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "nimbus": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "own_google_service": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "own_yandex_service": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "video": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "yandex_service": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "yandex_panorama": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "order_routes": {
+              "type": 2,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "yandex_geocoding": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "yandex_routing": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": 0
+          },
+          "fleetrun": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "agro": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "monitoring_dashboard": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "cms_manager_eu": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          },
+          "activated_units": {
+              "type": 2,
+              "usage": 34,
+              "maxUsage": -1
+          },
+          "cms_manager_com": {
+              "type": 1,
+              "usage": 0,
+              "maxUsage": -1
+          }
+      },
+      "dealerRights": 1,
+      "subPlans": [
+          "tpnew"
+      ]
+  }
+}
